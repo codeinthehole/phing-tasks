@@ -1,6 +1,6 @@
 <?php
 /**
- * Phing Task object for interacting with a Nabaztag
+ * Phing Task object for interacting with a Nabaztag rabbit
  *
  * @author David Winterbottom <david.winterbottom@gmail.com> 
  * @license: Creative Commons Attribution-ShareAlike 2.5 <http://creativecommons.org/licenses/by-sa/2.5/>

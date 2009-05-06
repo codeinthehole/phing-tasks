@@ -1,6 +1,6 @@
 <?php
 /**
- * Phing Task object for interacting with a Nabaztag
+ * Phing Task object for interacting with a Nabaztag rabbit
  *
  * @author David Winterbottom <david.winterbottom@gmail.com> 
  * @license: Creative Commons Attribution-ShareAlike 2.5 <http://creativecommons.org/licenses/by-sa/2.5/>
@@ -19,18 +19,8 @@ require_once "phing/Task.php";
 class NabaztagTask extends Task 
 {
     const BASE_URL = 'http://api.nabaztag.com/vl/FR/api.jsp'; 
-    
-    // Twitter response codes 
     const HTTP_RESPONSE_SUCCESS = 200;
-    const HTTP_RESPONSE_NOT_MODIFIED = 304;
-    const HTTP_RESPONSE_BAD_REQUEST = 400;
-    const HTTP_RESPONSE_BAD_CREDENTIALS = 401;
-    const HTTP_RESPONSE_FORBIDDEN = 403;
-    const HTTP_RESPONSE_BAD_URL = 404;
-    const HTTP_RESPONSE_SERVER_ERROR = 500;
-    const HTTP_RESPONSE_BAD_GATEWAY = 502;
-    const HTTP_RESPONSE_SERVICE_UNAVAILABLE = 503;
-    
+
     /**
      * @var string
      */
