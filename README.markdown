@@ -18,5 +18,6 @@ Further reading
 ---------------
 If you're interested, there are a couple of short blog articles on each of these
 tasks on my site [codeinthehole.com](http://codeinthehole.com):
-* TwitterUpdateTask: [Phing task to update a Twitter status](http://codeinthehole.com/archives/14-Phing-task-to-update-Twitter-status.html)
-* UnfuddleMessageTask: [Phing task to create an Unfuddle message](http://codeinthehole.com/archives/15-Phing-task-to-create-an-Unfuddle-message.html)
+
+*    TwitterUpdateTask: [Phing task to update a Twitter status](http://codeinthehole.com/archives/14-Phing-task-to-update-Twitter-status.html)
+*    UnfuddleMessageTask: [Phing task to create an Unfuddle message](http://codeinthehole.com/archives/15-Phing-task-to-create-an-Unfuddle-message.html)
