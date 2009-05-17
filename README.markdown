@@ -1,8 +1,7 @@
 Phing tasks
 ===========
 
-Just a simple collection of [phing](http://phing.info/trac/) tasks I've developed
-to help with the day job.  
+Just a simple collection of [phing](http://phing.info/trac/) tasks I've developed.  
 
 Installation
 ------------
@@ -19,5 +18,6 @@ Further reading
 If you're interested, there are a couple of short blog articles on each of these
 tasks on my site [codeinthehole.com](http://codeinthehole.com):
 
-*    TwitterUpdateTask: [Phing task to update a Twitter status](http://codeinthehole.com/archives/14-Phing-task-to-update-Twitter-status.html)
-*    UnfuddleMessageTask: [Phing task to create an Unfuddle message](http://codeinthehole.com/archives/15-Phing-task-to-create-an-Unfuddle-message.html)
+*    [Phing task to update a Twitter status](http://codeinthehole.com/archives/14-Phing-task-to-update-Twitter-status.html)
+*    [Phing task to create an Unfuddle message](http://codeinthehole.com/archives/15-Phing-task-to-create-an-Unfuddle-message.html)
+*    [Phing, Xinc and Nabaztags](http://codeinthehole.com/archives/27-Phing,-Xinc-and-Nabaztags.html)
